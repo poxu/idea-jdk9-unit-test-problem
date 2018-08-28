@@ -10,7 +10,7 @@ even though com.demo.library module provides one.
 If you run the test with maven it passes. Also, if you run Application.main,
 which uses the same code as ApplicationTest everything works as expected.
 
-##Formal steps to reproduce
+## Formal steps to reproduce
 1. File -> New -> Project From Existing Sources
 2. Find root pom.xml from this project and import it
 4. When Idea asks you which JKD to use - give it JDK 10
